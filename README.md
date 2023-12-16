@@ -1,0 +1,2 @@
+Simple calculator In this JavaScript Calculator Project, I had first create the UI design of Calculator using HTML CSS and then using JavaScript I had add the functionality to the calculator.![calIMG](https://github.com/kavinduGunasekara/JavaScript_Calculator/assets/137909922/9539baa9-105e-4a55-a792-45c9c4789003)
+![calIMG](https://github.com/kavinduGunasekara/JavaScript_Calculator/assets/137909922/2f4df46e-6a0a-4d95-96ca-479cbe54c2cb)
